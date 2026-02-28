@@ -52,7 +52,6 @@ Recommended Sources:
 
 C-NMC 2019: 15,000+ images for robust training.
 
-ALL-IDB2: High-quality clinical samples.
 
 🛠️ Tech Stack & Architecture
 
